@@ -51,3 +51,19 @@ The customer-facing portal where users can submit, view, and manage support tick
 <img <img width="873" height="506" alt="Screenshot 2026-07-21 at 2 06 54 PM" src="https://github.com/user-attachments/assets/221dde10-423b-40f0-aea8-ed77b6fc88e9" />
 
 
+<h2>Admin Panel</h2>
+<p>
+The adminstrative interface used by help desk staff to manage tickets, users, agents,departments, and overall system configuration. 
+</p>
+
+<p>
+<img <<img width="998" height="380" alt="Screenshot 2026-07-21 at 2 07 03 PM" src="https://github.com/user-attachments/assets/0e2ec51c-b7a4-4d8b-841c-04bb7fe97a0e" />
+
+<h2>Azure Virtual Machine</h2>
+<p>
+The Windows 11 Azure Virtual Machine that served as the host environment for deploying and configuring the osTicket help desk application. 
+</p>
+
+<p>
+<img <<<img width="883" height="435" alt="Screenshot 2026-07-21 at 12 21 26 PM" src="https://github.com/user-attachments/assets/a51b4d8d-61ac-4d81-89e3-008fa88dbe6d" />
+ />
