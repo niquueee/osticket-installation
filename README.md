@@ -40,7 +40,8 @@ The installation completed successfully, confirming that IIS, PHP, MySQL, and al
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="854" height="663" alt="Screenshot 2026-07-21 at 1 45 55 PM" src="https://github.com/user-attachments/assets/1489e982-a204-4be1-a941-e418bf315618" />
+>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
