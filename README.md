@@ -34,6 +34,11 @@ This lab demonstrates the deployment and configuration of osTicket, an open sour
 Rather than documenting every installation step, I've included screenshots of the completed deployment to highlight the successful configuration and functionality of the environment. 
 </p>
 
+<h2>Successful Installation</h2>
+<p>
+The installation completed successfully, confirming that IIS, PHP, MySQL, and all required dependencies were configured correctly. 
+</p>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
