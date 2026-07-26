@@ -2,33 +2,37 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Installation on Microsoft Azure</h1>
+This lab demonstrates the deployment and configuration of osTicket, an open source help desk ticketing system, on a Windows 11 Azure Virtual Machine. The project includes configuring IIS, installing PHP and MySQL, deploying osTicket, and preparing the environment for future ticket lifecycle labs.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- PHP
+- MySQL
+- HeidiSQL
+- osTicket 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Lab Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Deploy a Windows 11 Azure Virtual Machine 
+- Configure IIS with CGI support
+- Install required dependencies for PHP 
+- Install and configure MySQL
+- Deploy osTicket
+- Create the osTicket database 
 
-<h2>Installation Steps</h2>
+<h2>Introduction</h2>
+<p>
+Rather than documenting every installation step, I've included screenshots of the completed deployment to highlight the successful configuration and functionality of the environment. 
+</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
